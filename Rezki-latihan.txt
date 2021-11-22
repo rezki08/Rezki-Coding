@@ -1,4 +1,4 @@
 REZKI LATIHAN
 Fokus untuk belajar dan latihan membuat coding
 Membuat coding untuk program aplikasi
-Membuat aplikasi berbasis desktop
+Membuat aplikasi berbasis desktop dan android
